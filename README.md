@@ -1,4 +1,4 @@
-# hello-cli-examples
+# hello-cli
 
 色々な言語・ライブラリでhelloコマンドを作ります。
 
